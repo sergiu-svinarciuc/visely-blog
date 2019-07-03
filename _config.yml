@@ -18,7 +18,7 @@ title: Visely Blog
 email: inc@nemo.ai
 twitter_username: nemo_ai_team
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about eCommerce, product recommendations, and search
+  A blog about ecommerce, product recommendations, and search
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.visely.io"  # the base hostname & protocol for your site, e.g. http://example.com
 
