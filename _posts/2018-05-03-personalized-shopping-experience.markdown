@@ -52,13 +52,13 @@ Considering this, a good rule of thumb would be: one returning customer should b
 
 Use the formula below to calculate what’s the revenue coefficient for returning customers `Rrn` is for your store.
 
-![formula][formula]
+<img src="{{ '/images/formula.png' | relative_url }}" />
 
 `Rr` is revenue rate (in %) for returning customers, `Rn` is revenue rate for new customers (in %), `Tr` is traffic rate of returning customers (in %), `Tn` is traffic rate of new customers (in %).
 
 So, if I’m to take the data from the Monetate report, the `Rrn` calculations become:
 
-![formula-downloads][formula-downloads]
+<img src="{{ '/images/formula-downloads.png' | relative_url }}" />
 
 Don’t forget that [averages are misleading][averages], especially when online businesses of completely different profiles are included in such studies.
 
@@ -93,8 +93,6 @@ P.S.: *If you happen to be a Shopify store owner, [take a look][visely-app-store
 [check]: https://www.idimension.com/2017/08/making-sense-of-google-analytics-users-user-type-and-new-users
 [first-time]: https://help.shopify.com/manual/reports-and-analytics/shopify-reports/report-types/customers-reports#first-time-vs-returning-customer-sales
 [report]: http://info.monetate.com/rs/092-TQN-434/images/Monetate_EQ4_2015_A_Tale_of_Two_Visitors-web.pdf
-[formula]: /images/formula.png
-[formula-downloads]: /images/formula-downloads.png
 [averages]: http://derekpilling.com/fallacy-averages
 [explains]: https://www.optimove.com/blog/balancing-your-new-existing-customer-revenue-mix
 
