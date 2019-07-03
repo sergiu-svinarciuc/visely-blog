@@ -44,31 +44,31 @@ These all follow the same process:
 <img src="{{ '/images/supply-theme.gif' | relative_url }}" width="750" />
 
 #### Minimal theme
-<img src="{{ site.url }}/images/minimal-theme.gif" width="750" />
+<img src="{{ '/images/minimal-theme.gif' | relative_url }}" width="750" />
 
 #### Brooklyn theme
-<img src="{{ site.url }}/images/brooklyn-theme.gif" width="750" />
+<img src="{{ '/images/brooklyn-theme.gif' | relative_url }}" width="750" />
 
 #### Narrative theme
-<img src="{{ site.url }}/images/narative-theme.gif" width="750" />
+<img src="{{ '/images/narative-theme.gif' | relative_url }}" width="750" />
 
 #### Pop theme
-<img src="{{ site.url }}/images/pop-theme.gif" width="750" />
+<img src="{{ '/images/pop-theme.gif' | relative_url }}" width="750" />
 
 #### Simple theme
-<img src="{{ site.url }}/images/simple-theme.gif" width="750" />
+<img src="{{ '/images/simple-theme.gif' | relative_url }}" width="750" />
 
 #### Venture theme
-<img src="{{ site.url }}/images/venture-theme.gif" width="750" />
+<img src="{{ '/images/venture-theme.gif' | relative_url }}" width="750" />
 
 #### Jumpstart theme
-<img src="{{ site.url }}/images/jumpstart-theme.gif" width="750" />
+<img src="{{ '/images/jumpstart-theme.gif' | relative_url }}" width="750" />
 
 #### Boundless theme 
-<img src="{{ site.url }}/images/boundless-theme.gif" width="750" />
+<img src="{{ '/images/boundless-theme.gif' | relative_url }}" width="750" />
 
 #### Debut theme
-<img src="{{ site.url }}/images/debut-theme.gif" width="750" />
+<img src="{{ '/images/debut-theme.gif' | relative_url }}" width="750" />
 
 I hope this short guide will help understand the difference between the two options to remove the branding offered by Shopify, and it will clearly show you how to remove the code from your free Shopify theme, should you decide to do it.
 <hr />
