@@ -6,8 +6,6 @@ date:   2018-02-05 11:37:00 +0100
 background: /images/making-sense/retail-store.jpg
 categories: ecommerce
 ---
-Hey folks, it’s Alex here again, co-founder of nemo.ai, the team behind [Visely Product Recommendations][visely].
-
 In the first part of this four-part series [I’ve laid out][setup-recommendations] simple guidelines for an efficient product recommendations setup for an e-commerce online store.
 
 Here, I’ll dive deeper into various product recommendations widgets, what exactly these are and how they work.

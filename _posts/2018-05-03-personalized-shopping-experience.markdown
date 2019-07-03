@@ -2,14 +2,12 @@
 layout: post
 author: Alexandru Dereveanco
 title:  "Personalised Shopping Experience. When to start?"
-date:   2019-03-03 11:37:00 +0100
+date:   2018-05-03 11:37:00 +0100
 background: /images/coffee-shop.jpg
 categories: ecommerce
 ---
 
-Hey folks, this is Alex, co-founder of nemo.ai, the team behind [Visely Product Recommendations][visely].
-
-In the previous instalments of this four-part series, I’ve laid out a simple guideline for an efficient product recommendations setup on an online store, and I‘ve described how various recommendations widgets work and I’ve explained how purchase attribution works in a product recommendation system.
+In the previous instalments of this four-part series, [I’ve laid out][setup-recommendations] a simple guideline for an efficient product recommendations setup on an online store, and [I‘ve described][making-sense] how various recommendations widgets work and [I’ve explained][purchase-attribution] how purchase attribution works in a product recommendation system.
 
 In the final part I’ll lay out a simple framework to help online e-commerce store owners decide if they need to add personalisation to their store.
 
@@ -52,13 +50,13 @@ Considering this, a good rule of thumb would be: one returning customer should b
 
 Use the formula below to calculate what’s the revenue coefficient for returning customers `Rrn` is for your store.
 
-<img src="{{ '/images/formula.png' | relative_url }}" />
+ <img src="{{ '/images/formula.png' | relative_url }}" class="inline-image" />
 
 `Rr` is revenue rate (in %) for returning customers, `Rn` is revenue rate for new customers (in %), `Tr` is traffic rate of returning customers (in %), `Tn` is traffic rate of new customers (in %).
 
 So, if I’m to take the data from the Monetate report, the `Rrn` calculations become:
 
-<img src="{{ '/images/formula-downloads.png' | relative_url }}" />
+<img src="{{ '/images/formula-downloads.png' | relative_url }}" class="inline-image" />
 
 Don’t forget that [averages are misleading][averages], especially when online businesses of completely different profiles are included in such studies.
 
@@ -95,6 +93,11 @@ P.S.: *If you happen to be a Shopify store owner, [take a look][visely-app-store
 [report]: http://info.monetate.com/rs/092-TQN-434/images/Monetate_EQ4_2015_A_Tale_of_Two_Visitors-web.pdf
 [averages]: http://derekpilling.com/fallacy-averages
 [explains]: https://www.optimove.com/blog/balancing-your-new-existing-customer-revenue-mix
+[purchase-attribution]: {{ site.baseurl }}{% post_url 2018-02-19-purchase-attribution %}
+[making-sense]: {{ site.baseurl }}{% post_url 2018-02-05-making-sense %}
+[setup-recommendations]: {{ site.baseurl }}{% post_url 2018-01-22-setup-product-recommedations %}
+
+
 
 
 
