@@ -1,0 +1,8 @@
+build/
+obj/
+bin/
+.idea/
+.vs/
+_site/
+*.lock
+.sass-cache/
