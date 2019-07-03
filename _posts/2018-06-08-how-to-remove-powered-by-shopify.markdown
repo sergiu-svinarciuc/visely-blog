@@ -41,7 +41,7 @@ These all follow the same process:
 5. Just find the free theme you are using below and watch the corresponding screen grab.
 
 #### Supply theme
-<img src="{{ site.url }}/images/supply-theme.gif" width="750" />
+<img src="{{ '/images/supply-theme.gif' | relative_url }}" width="750" />
 
 #### Minimal theme
 <img src="{{ site.url }}/images/minimal-theme.gif" width="750" />
