@@ -33,7 +33,7 @@ Here it is best to take note of the following three concepts: browse/checkout fu
 
 Every store and its online shopping experience can be modelled by a funnel, with the landing pages are on top and checkout and purchase on the bottom.
 
-<img src="{{ '/images/setup-product-recommendations/checkout-funnel.png' | relative_url }}" width="700" />
+<img src="{{ '/images/setup-product-recommendations/checkout-funnel.png' | relative_url }}" class="inline-image" />
 
 The vast majority of times the visitors to your online store will just browse the site to familiarise themselves with it and the catalogue it offers. The majority of times these sessions will not result in purchased products. This means that they usually stay on top of the funnel.
 

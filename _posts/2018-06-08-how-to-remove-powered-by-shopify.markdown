@@ -41,34 +41,34 @@ These all follow the same process:
 5. Just find the free theme you are using below and watch the corresponding screen grab.
 
 #### Supply theme
-<img src="{{ '/images/supply-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/supply-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Minimal theme
-<img src="{{ '/images/minimal-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/minimal-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Brooklyn theme
-<img src="{{ '/images/brooklyn-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/brooklyn-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Narrative theme
-<img src="{{ '/images/narative-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/narative-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Pop theme
-<img src="{{ '/images/pop-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/pop-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Simple theme
-<img src="{{ '/images/simple-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/simple-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Venture theme
-<img src="{{ '/images/venture-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/venture-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Jumpstart theme
-<img src="{{ '/images/jumpstart-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/jumpstart-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Boundless theme 
-<img src="{{ '/images/boundless-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/boundless-theme.gif' | relative_url }}" class="inline-image" />
 
 #### Debut theme
-<img src="{{ '/images/debut-theme.gif' | relative_url }}" width="750" />
+<img src="{{ '/images/debut-theme.gif' | relative_url }}" class="inline-image" />
 
 I hope this short guide will help understand the difference between the two options to remove the branding offered by Shopify, and it will clearly show you how to remove the code from your free Shopify theme, should you decide to do it.
 <hr />

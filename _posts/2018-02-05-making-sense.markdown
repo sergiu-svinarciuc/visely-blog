@@ -26,7 +26,7 @@ Let's analyze them all.
 
 #### Recommendations Based on Non Product Related attributes.
 
-<img src="{{ '/images/making-sense/most-popular.png' | relative_url }}" width="750" />
+<img src="{{ '/images/making-sense/most-popular.png' | relative_url }}" class="inline-image" />
 
 ##### Most Popular / Best Sellers
 
@@ -41,7 +41,7 @@ Business importance of this widget is quite obvious. As a e-commerce entrepreneu
 
 ##### Trending Now
 
-<img src="{{ '/images/making-sense/trending-now.png' | relative_url }}" width="750" />
+<img src="{{ '/images/making-sense/trending-now.png' | relative_url }}" class="inline-image" />
 
 *Trending Now* product recommendations widget showcases products which are currently viewed by store’s visitors as a group.
 
@@ -97,12 +97,12 @@ This type of widgets work best on high intent pages or actions, like “Cart Pag
 #### Recommendations Based on Individual User Behaviour in Relation to a Product
 ##### Recently Viewed
 
-<img src="{{ '/images/making-sense/recently-viewed.png' | relative_url }}" width="750" />
+<img src="{{ '/images/making-sense/recently-viewed.png' | relative_url }}" class="inline-image" />
 
 *Recently Viewed* is one of the simplest personalised widgets as it contains the product navigation history for an individual user and its content is personalised for that particular user. This widget is useful as a reminder to complete an abandoned interaction with a product.
 
 #### Visely Specifics and Implementation Decisions.
-<img src="{{ '/images/making-sense/ymal.png' | relative_url }}" width="750" />
+<img src="{{ '/images/making-sense/ymal.png' | relative_url }}" class="inline-image" />
 
 In our implementation of [Visely Product Recommendations][visely], we’ve decided to combine product content and collaborative behaviour recommendations into one, over-arching product recommendation widget — *You May Also Like*.
 
