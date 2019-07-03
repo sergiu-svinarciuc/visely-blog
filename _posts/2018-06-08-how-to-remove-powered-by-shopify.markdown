@@ -73,7 +73,7 @@ These all follow the same process:
 I hope this short guide will help understand the difference between the two options to remove the branding offered by Shopify, and it will clearly show you how to remove the code from your free Shopify theme, should you decide to do it.
 <hr />
 
-P.S.: *If you happen to be looking for a state-of-the-art product recommendations solution for you Shopify store, [take a look][visely-app-store] at our Visely Personalized Product Recommendations app in the marketplace.*
+*P.S.: If you happen to be looking for a state-of-the-art product recommendations solution for you Shopify store, [take a look][visely-app-store] at our Visely Personalized Product Recommendations app in the marketplace.*
 
 [visely]: https://visely.io
 [visely-app-store]: https://apps.shopify.com/visely
