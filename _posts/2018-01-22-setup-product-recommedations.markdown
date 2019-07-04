@@ -57,7 +57,7 @@ For a content page that describes the approach of a store to taking suits measur
 
 In another example, if a Content page contains a size guide, the answer to the question is “Store” as it contains store specific information, so its context is “Store”.
 
-<img src="{{ '/images/setup-product-recommendations/page-context.png' | relative_url }}" width="700" />
+<img src="{{ '/images/setup-product-recommendations/page-context.png' | relative_url }}" class="inline-image" />
 
 ##### Product Recommendation Widget Context
 Similarly to a page on the site, a product recommendation widget has its own context.
@@ -68,7 +68,7 @@ For *Most Popular in Collection*, *Trending Now* in *Collection* and *New Arriva
 
 For *You May Also Like*, *Also Bought*, *Similar Products* and *Related Products* widget context is a product.
 
-<img src="{{ '/images/setup-product-recommendations/widget-context.png' | relative_url }}" width="700" />
+<img src="{{ '/images/setup-product-recommendations/widget-context.png' | relative_url }}" class="inline-image" />
 
 You can probably already see how store pages relate to product recommendations widgets via the respective context.
 
